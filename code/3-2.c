@@ -3,7 +3,7 @@
 int main()
 {
     int a = -1;
-    unsighned int b = 1;
+    unsigned int b = 1;
 
     if (a < b) {
         printf("a < b\n" );
