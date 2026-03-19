@@ -7,4 +7,5 @@ int main()
     printf("% 10s %010d %10.2f\n", "park", 432, 1.0);
 
     return 0;
+    
 }
