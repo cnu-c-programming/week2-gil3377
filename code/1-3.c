@@ -10,4 +10,5 @@ int main()
     printf("%d %c %f\n", age, grade, gpa);
 
     return 0;
+    
 }
